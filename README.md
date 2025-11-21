@@ -181,6 +181,7 @@ Below are optional charts illustrating insights generated from the dataset:
 
 ## 5. Known Constraints / Limitations
 
+The constraints/limitations are:
 -Synthetic recipes are randomly generated and not real dishes
 -Interaction data is synthetic and probabilistic
 -Analytics are based on small sample sizes
@@ -189,7 +190,7 @@ Below are optional charts illustrating insights generated from the dataset:
 -These limitations are expected and acceptable given the project scope.
 
 ## 6. Technologies Used
-
+The technologies used in the project are:
 -Firebase Firestore (source system)
 -Python 3
 -Firebase Admin SDK
