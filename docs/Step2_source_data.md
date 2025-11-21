@@ -34,7 +34,7 @@ Install dependencies:
     pip install firebase-admin
 
 All data is populated using the script:
-    scripts/upload_to_firestore.py
+    codes/upload_to_firestore.py
 
 This script:
     Initializes Firebase Admin
@@ -47,7 +47,7 @@ This script:
 ## How to Run the Script
 
 Run the script from the project root:
-    python scripts/upload_to_firestore.py
+    python codes/upload_to_firestore.py
 
 
 ## Expected output:
