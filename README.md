@@ -240,6 +240,7 @@ Optional future enhancements:
 
 
 
+
 ## 8. Conclusion 
 
 This project demonstrates my ability to design end-to-end data engineering workflows, including data modeling, ETL, validation, and analytics using Firebase and Python. It is a complete pipeline that reflects real-world data engineering tasks.
