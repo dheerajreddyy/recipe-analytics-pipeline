@@ -1,8 +1,9 @@
 ## Recipe Analytics Pipeline (Firebase + Python ETL)
 
-**Name:** R Dheeraj Reddy
-**Batch:** Data Engineer
-**Email:** dheerajr.ramireddy@gmail.com
+- **Name:** R Dheeraj Reddy  
+- **Batch:** Data Engineer  
+- **Email:** dheerajr.ramireddy@gmail.com  
+
 
 This project implements a complete data engineering pipeline using Firebase Firestore as the source system.
 It demonstrates data modeling, data ingestion, ETL/ELT processing, data validation, analytics, and reporting.
