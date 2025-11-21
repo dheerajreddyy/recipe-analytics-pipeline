@@ -182,21 +182,21 @@ Below are optional charts illustrating insights generated from the dataset:
 ## 5. Known Constraints / Limitations
 
 The constraints/limitations are:
--Synthetic recipes are randomly generated and not real dishes
--Interaction data is synthetic and probabilistic
--Analytics are based on small sample sizes
--Firestore export is not the full Google Cloud “export/import” format
--Synthetic randomness may result in some recipes dominating interactions
--These limitations are expected and acceptable given the project scope.
+-    Synthetic recipes are randomly generated and not real dishes
+-    Interaction data is synthetic and probabilistic
+-    Analytics are based on small sample sizes
+-    Firestore export is not the full Google Cloud “export/import” format
+-    Synthetic randomness may result in some recipes dominating interactions
+-    These limitations are expected and acceptable given the project scope.
 
 ## 6. Technologies Used
 The technologies used in the project are:
--Firebase Firestore (source system)
--Python 3
--Firebase Admin SDK
--CSV-based normalized tables
--Pandas
--Matplotlib
+-    Firebase Firestore (source system)
+-    Python 3
+-    Firebase Admin SDK
+-    CSV-based normalized tables
+-    Pandas
+-    Matplotlib
 
 ## 7. How to Extend
 
