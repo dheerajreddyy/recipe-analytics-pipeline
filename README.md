@@ -84,16 +84,17 @@ A full schema and ERD-style diagram is included in:
 ## 2. RUNNING THE END-TO-END PIPELINE
 
 The project uses a simple directory layout:
-
+```
 de_recipe_pipeline/
-  codes/
-  data/raw/
-  data/processed/
-  outputs/
-  docs/
-  README.md
-
-## Step 2 — Populate Firestore
+    codes/
+    data/
+        raw/
+        processed/
+    outputs/
+    docs/
+    README.md
+```
+### Step 2 — Populate Firestore
 
 Add your service account:
 -    serviceAccountKey.json
@@ -115,7 +116,7 @@ Stored in Firestore as:
 - users/
 - interactions/
 
-## Step 3 — Export Firestore and Run ETL
+### Step 3 — Export Firestore and Run ETL
 
 Export Firestore → JSON:
 -    python codes/export_from_firestore.py
@@ -136,7 +137,7 @@ Outputs:
 -    data/processed/interactions.csv
 
 
-## Step 4 — Data Quality Validation
+### Step 4 — Data Quality Validation
 
 Run the validator:
 -    python codes/validate_data.py
@@ -193,7 +194,7 @@ Full insight descriptions:
 Charts (optional) will be placed in:
 -   outputs/charts/
 
-## Analytics Visualizations
+### Analytics Visualizations
 
 Below are optional charts illustrating insights generated from the dataset:
 - **Difficulty distribution**  
