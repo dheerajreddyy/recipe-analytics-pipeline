@@ -5,6 +5,34 @@
 - **Email:** dheerajr.ramireddy@gmail.com  
 
 
+
+Table of Contents
+
+1. Data Model Overview
+
+Entity Relationship Diagram (ERD)
+
+2. Running the End-to-End Pipeline
+
+Step 2 — Populate Firestore
+
+Step 3 — Export Firestore and Run ETL
+
+Step 4 — Data Quality Validation
+
+3. ETL Process Summary
+
+4. Analytics Summary (10+ Insights)
+
+Analytics Visualizations
+
+5. Known Constraints / Limitations
+
+6. Technologies Used
+
+7. How to Extend
+
+
 This project implements a complete data engineering pipeline using Firebase Firestore as the source system.
 It demonstrates data modeling, data ingestion, ETL/ELT processing, data validation, analytics, and reporting.
 
