@@ -12,9 +12,7 @@ recipes = pd.read_csv("../data/processed/recipes.csv", encoding="latin1")
 ingredients = pd.read_csv("../data/processed/ingredients.csv", encoding="latin1")
 interactions = pd.read_csv("../data/processed/interactions.csv", encoding="latin1")
 
-# ---------------------------
-# Global premium styling
-# ---------------------------
+
 plt.rcParams.update({
     "figure.figsize": (12, 6),
     "axes.titlesize": 18,
@@ -37,9 +35,9 @@ def save(name):
     plt.close()
 
 
-# ================================
-# 1️⃣ Difficulty Distribution
-# ================================
+
+# 1️ Difficulty Distribution
+
 plt.figure()
 ax = plt.gca()
 
@@ -60,9 +58,9 @@ for i, v in enumerate(counts.values):
 save("difficulty_distribution")
 
 
-# ================================
-# 2️⃣ Top Ingredients
-# ================================
+
+# 2️ Top Ingredients
+
 plt.figure()
 ax = plt.gca()
 
@@ -78,9 +76,9 @@ ax.grid(axis="y")
 save("top_ingredients")
 
 
-# ================================
-# 3️⃣ Top Viewed Recipes
-# ================================
+
+# 3️ Top Viewed Recipes
+
 plt.figure()
 ax = plt.gca()
 
@@ -98,9 +96,8 @@ ax.grid(axis="y")
 save("top_views")
 
 
-# ================================
-# 4️⃣ Top Liked Recipes
-# ================================
+# 4️ Top Liked Recipes
+
 plt.figure()
 ax = plt.gca()
 
@@ -118,9 +115,9 @@ ax.grid(axis="y")
 save("top_likes")
 
 
-# ================================
-# 5️⃣ Prep Time vs Likes
-# ================================
+
+# 5️ Prep Time vs Likes
+
 plt.figure()
 ax = plt.gca()
 
@@ -147,4 +144,3 @@ ax.grid(True)
 
 save("prep_vs_likes")
 
-print("✨ Premium A1 corporate charts generated successfully!")
