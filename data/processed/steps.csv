@@ -1,0 +1,53 @@
+recipe_id,step_number,description
+recipe_1,1,Step 1 of recipe 1
+recipe_1,2,Step 2 of recipe 1
+recipe_10,1,Step 1 of recipe 10
+recipe_10,2,Step 2 of recipe 10
+recipe_10,3,Step 3 of recipe 10
+recipe_11,1,Step 1 of recipe 11
+recipe_11,2,Step 2 of recipe 11
+recipe_11,3,Step 3 of recipe 11
+recipe_12,1,Step 1 of recipe 12
+recipe_12,2,Step 2 of recipe 12
+recipe_13,1,Step 1 of recipe 13
+recipe_13,2,Step 2 of recipe 13
+recipe_14,1,Step 1 of recipe 14
+recipe_14,2,Step 2 of recipe 14
+recipe_14,3,Step 3 of recipe 14
+recipe_14,4,Step 4 of recipe 14
+recipe_15,1,Step 1 of recipe 15
+recipe_15,2,Step 2 of recipe 15
+recipe_2,1,Step 1 of recipe 2
+recipe_2,2,Step 2 of recipe 2
+recipe_2,3,Step 3 of recipe 2
+recipe_3,1,Step 1 of recipe 3
+recipe_3,2,Step 2 of recipe 3
+recipe_3,3,Step 3 of recipe 3
+recipe_3,4,Step 4 of recipe 3
+recipe_4,1,Step 1 of recipe 4
+recipe_4,2,Step 2 of recipe 4
+recipe_4,3,Step 3 of recipe 4
+recipe_4,4,Step 4 of recipe 4
+recipe_5,1,Step 1 of recipe 5
+recipe_5,2,Step 2 of recipe 5
+recipe_5,3,Step 3 of recipe 5
+recipe_6,1,Step 1 of recipe 6
+recipe_6,2,Step 2 of recipe 6
+recipe_6,3,Step 3 of recipe 6
+recipe_7,1,Step 1 of recipe 7
+recipe_7,2,Step 2 of recipe 7
+recipe_7,3,Step 3 of recipe 7
+recipe_7,4,Step 4 of recipe 7
+recipe_8,1,Step 1 of recipe 8
+recipe_8,2,Step 2 of recipe 8
+recipe_8,3,Step 3 of recipe 8
+recipe_8,4,Step 4 of recipe 8
+recipe_9,1,Step 1 of recipe 9
+recipe_9,2,Step 2 of recipe 9
+recipe_egg_burji_roti,1,"Chop onion, tomato and green chili."
+recipe_egg_burji_roti,2,Heat oil in a pan and add mustard seeds. Let them splutter.
+recipe_egg_burji_roti,3,Add curry leaves and chopped onions. Sauté until translucent.
+recipe_egg_burji_roti,4,Add ginger garlic paste and sauté for 30 seconds.
+recipe_egg_burji_roti,5,"Add tomato, green chili, turmeric, red chili, coriander powder, pepper powder (optional) and cook until soft."
+recipe_egg_burji_roti,6,Beat eggs with salt and pour into the pan. Scramble until cooked.
+recipe_egg_burji_roti,7,"Garnish with coriander. Serve with rotis, lemon, and sliced onions."

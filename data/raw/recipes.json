@@ -1,0 +1,784 @@
+[
+  {
+    "created_at": "2025-11-20T06:17:39.103263Z",
+    "steps": [
+      "Step 1 of recipe 1",
+      "Step 2 of recipe 1"
+    ],
+    "description": "Auto-generated test recipe",
+    "id": "recipe_1",
+    "prep_time_min": 5,
+    "tags": [
+      "non-veg",
+      "veg"
+    ],
+    "cook_time_min": 15,
+    "servings": 1,
+    "total_time_min": 20,
+    "ingredients": [
+      {
+        "name": "carrot",
+        "quantity": 3,
+        "unit": "g"
+      },
+      {
+        "name": "potato",
+        "quantity": 3,
+        "unit": "tsp"
+      },
+      {
+        "name": "potato",
+        "quantity": 3,
+        "unit": "tbsp"
+      },
+      {
+        "name": "garlic",
+        "quantity": 1,
+        "unit": "pcs"
+      }
+    ],
+    "difficulty": "hard",
+    "title": "Synthetic Recipe 1"
+  },
+  {
+    "created_at": "2025-11-20T06:17:41.526819Z",
+    "steps": [
+      "Step 1 of recipe 10",
+      "Step 2 of recipe 10",
+      "Step 3 of recipe 10"
+    ],
+    "description": "Auto-generated test recipe",
+    "id": "recipe_10",
+    "prep_time_min": 11,
+    "tags": [
+      "veg",
+      "home-style"
+    ],
+    "cook_time_min": 11,
+    "servings": 1,
+    "total_time_min": 22,
+    "ingredients": [
+      {
+        "name": "onion",
+        "quantity": 4,
+        "unit": "g"
+      },
+      {
+        "name": "oil",
+        "quantity": 4,
+        "unit": "tsp"
+      },
+      {
+        "name": "garlic",
+        "quantity": 2,
+        "unit": "tsp"
+      },
+      {
+        "name": "onion",
+        "quantity": 4,
+        "unit": "pcs"
+      },
+      {
+        "name": "salt",
+        "quantity": 1,
+        "unit": "tbsp"
+      }
+    ],
+    "difficulty": "medium",
+    "title": "Synthetic Recipe 10"
+  },
+  {
+    "created_at": "2025-11-20T06:17:41.866571Z",
+    "steps": [
+      "Step 1 of recipe 11",
+      "Step 2 of recipe 11",
+      "Step 3 of recipe 11"
+    ],
+    "description": "Auto-generated test recipe",
+    "id": "recipe_11",
+    "prep_time_min": 11,
+    "tags": [
+      "veg",
+      "home-style"
+    ],
+    "cook_time_min": 25,
+    "servings": 3,
+    "total_time_min": 36,
+    "ingredients": [
+      {
+        "name": "salt",
+        "quantity": 2,
+        "unit": "tsp"
+      },
+      {
+        "name": "rice",
+        "quantity": 1,
+        "unit": "tsp"
+      },
+      {
+        "name": "tomato",
+        "quantity": 3,
+        "unit": "tsp"
+      },
+      {
+        "name": "rice",
+        "quantity": 1,
+        "unit": "tbsp"
+      },
+      {
+        "name": "carrot",
+        "quantity": 1,
+        "unit": "pcs"
+      },
+      {
+        "name": "oil",
+        "quantity": 1,
+        "unit": "g"
+      }
+    ],
+    "difficulty": "medium",
+    "title": "Synthetic Recipe 11"
+  },
+  {
+    "created_at": "2025-11-20T06:17:42.238678Z",
+    "steps": [
+      "Step 1 of recipe 12",
+      "Step 2 of recipe 12"
+    ],
+    "description": "Auto-generated test recipe",
+    "id": "recipe_12",
+    "prep_time_min": 15,
+    "tags": [
+      "home-style",
+      "non-veg"
+    ],
+    "cook_time_min": 5,
+    "servings": 4,
+    "total_time_min": 20,
+    "ingredients": [
+      {
+        "name": "potato",
+        "quantity": 4,
+        "unit": "tbsp"
+      },
+      {
+        "name": "onion",
+        "quantity": 1,
+        "unit": "g"
+      },
+      {
+        "name": "rice",
+        "quantity": 4,
+        "unit": "tbsp"
+      }
+    ],
+    "difficulty": "hard",
+    "title": "Synthetic Recipe 12"
+  },
+  {
+    "created_at": "2025-11-20T06:17:42.597798Z",
+    "steps": [
+      "Step 1 of recipe 13",
+      "Step 2 of recipe 13"
+    ],
+    "description": "Auto-generated test recipe",
+    "id": "recipe_13",
+    "prep_time_min": 10,
+    "tags": [
+      "veg",
+      "non-veg"
+    ],
+    "cook_time_min": 20,
+    "servings": 3,
+    "total_time_min": 30,
+    "ingredients": [
+      {
+        "name": "potato",
+        "quantity": 1,
+        "unit": "g"
+      },
+      {
+        "name": "tomato",
+        "quantity": 4,
+        "unit": "tbsp"
+      },
+      {
+        "name": "salt",
+        "quantity": 2,
+        "unit": "tbsp"
+      },
+      {
+        "name": "tomato",
+        "quantity": 2,
+        "unit": "tbsp"
+      }
+    ],
+    "difficulty": "medium",
+    "title": "Synthetic Recipe 13"
+  },
+  {
+    "created_at": "2025-11-20T06:17:42.805473Z",
+    "steps": [
+      "Step 1 of recipe 14",
+      "Step 2 of recipe 14",
+      "Step 3 of recipe 14",
+      "Step 4 of recipe 14"
+    ],
+    "description": "Auto-generated test recipe",
+    "id": "recipe_14",
+    "prep_time_min": 9,
+    "tags": [
+      "non-veg",
+      "quick"
+    ],
+    "cook_time_min": 15,
+    "servings": 2,
+    "total_time_min": 24,
+    "ingredients": [
+      {
+        "name": "garlic",
+        "quantity": 1,
+        "unit": "tbsp"
+      },
+      {
+        "name": "carrot",
+        "quantity": 2,
+        "unit": "tbsp"
+      },
+      {
+        "name": "oil",
+        "quantity": 2,
+        "unit": "g"
+      }
+    ],
+    "difficulty": "easy",
+    "title": "Synthetic Recipe 14"
+  },
+  {
+    "created_at": "2025-11-20T06:17:42.923293Z",
+    "steps": [
+      "Step 1 of recipe 15",
+      "Step 2 of recipe 15"
+    ],
+    "description": "Auto-generated test recipe",
+    "id": "recipe_15",
+    "prep_time_min": 15,
+    "tags": [
+      "non-veg",
+      "quick"
+    ],
+    "cook_time_min": 5,
+    "servings": 4,
+    "total_time_min": 20,
+    "ingredients": [
+      {
+        "name": "oil",
+        "quantity": 3,
+        "unit": "tsp"
+      },
+      {
+        "name": "rice",
+        "quantity": 2,
+        "unit": "g"
+      },
+      {
+        "name": "tomato",
+        "quantity": 1,
+        "unit": "tbsp"
+      },
+      {
+        "name": "tomato",
+        "quantity": 4,
+        "unit": "pcs"
+      },
+      {
+        "name": "carrot",
+        "quantity": 2,
+        "unit": "g"
+      }
+    ],
+    "difficulty": "easy",
+    "title": "Synthetic Recipe 15"
+  },
+  {
+    "created_at": "2025-11-20T06:17:39.216849Z",
+    "steps": [
+      "Step 1 of recipe 2",
+      "Step 2 of recipe 2",
+      "Step 3 of recipe 2"
+    ],
+    "description": "Auto-generated test recipe",
+    "id": "recipe_2",
+    "prep_time_min": 15,
+    "tags": [
+      "home-style",
+      "non-veg"
+    ],
+    "cook_time_min": 14,
+    "servings": 3,
+    "total_time_min": 29,
+    "ingredients": [
+      {
+        "name": "oil",
+        "quantity": 1,
+        "unit": "tbsp"
+      },
+      {
+        "name": "garlic",
+        "quantity": 2,
+        "unit": "pcs"
+      },
+      {
+        "name": "potato",
+        "quantity": 2,
+        "unit": "tsp"
+      },
+      {
+        "name": "oil",
+        "quantity": 1,
+        "unit": "tbsp"
+      },
+      {
+        "name": "rice",
+        "quantity": 3,
+        "unit": "g"
+      },
+      {
+        "name": "salt",
+        "quantity": 2,
+        "unit": "pcs"
+      }
+    ],
+    "difficulty": "easy",
+    "title": "Synthetic Recipe 2"
+  },
+  {
+    "created_at": "2025-11-20T06:17:39.376450Z",
+    "steps": [
+      "Step 1 of recipe 3",
+      "Step 2 of recipe 3",
+      "Step 3 of recipe 3",
+      "Step 4 of recipe 3"
+    ],
+    "description": "Auto-generated test recipe",
+    "id": "recipe_3",
+    "prep_time_min": 14,
+    "tags": [
+      "quick",
+      "home-style"
+    ],
+    "cook_time_min": 16,
+    "servings": 3,
+    "total_time_min": 30,
+    "ingredients": [
+      {
+        "name": "oil",
+        "quantity": 1,
+        "unit": "tsp"
+      },
+      {
+        "name": "potato",
+        "quantity": 1,
+        "unit": "pcs"
+      },
+      {
+        "name": "salt",
+        "quantity": 1,
+        "unit": "tsp"
+      },
+      {
+        "name": "salt",
+        "quantity": 2,
+        "unit": "tbsp"
+      },
+      {
+        "name": "rice",
+        "quantity": 4,
+        "unit": "g"
+      }
+    ],
+    "difficulty": "medium",
+    "title": "Synthetic Recipe 3"
+  },
+  {
+    "created_at": "2025-11-20T06:17:39.523590Z",
+    "steps": [
+      "Step 1 of recipe 4",
+      "Step 2 of recipe 4",
+      "Step 3 of recipe 4",
+      "Step 4 of recipe 4"
+    ],
+    "description": "Auto-generated test recipe",
+    "id": "recipe_4",
+    "prep_time_min": 9,
+    "tags": [
+      "quick",
+      "home-style"
+    ],
+    "cook_time_min": 11,
+    "servings": 2,
+    "total_time_min": 20,
+    "ingredients": [
+      {
+        "name": "onion",
+        "quantity": 3,
+        "unit": "g"
+      },
+      {
+        "name": "oil",
+        "quantity": 1,
+        "unit": "tsp"
+      },
+      {
+        "name": "garlic",
+        "quantity": 2,
+        "unit": "g"
+      },
+      {
+        "name": "rice",
+        "quantity": 4,
+        "unit": "g"
+      }
+    ],
+    "difficulty": "medium",
+    "title": "Synthetic Recipe 4"
+  },
+  {
+    "created_at": "2025-11-20T06:17:39.982565Z",
+    "steps": [
+      "Step 1 of recipe 5",
+      "Step 2 of recipe 5",
+      "Step 3 of recipe 5"
+    ],
+    "description": "Auto-generated test recipe",
+    "id": "recipe_5",
+    "prep_time_min": 13,
+    "tags": [
+      "veg",
+      "home-style"
+    ],
+    "cook_time_min": 14,
+    "servings": 1,
+    "total_time_min": 27,
+    "ingredients": [
+      {
+        "name": "tomato",
+        "quantity": 2,
+        "unit": "tbsp"
+      },
+      {
+        "name": "potato",
+        "quantity": 4,
+        "unit": "tsp"
+      },
+      {
+        "name": "rice",
+        "quantity": 2,
+        "unit": "g"
+      },
+      {
+        "name": "potato",
+        "quantity": 2,
+        "unit": "g"
+      },
+      {
+        "name": "oil",
+        "quantity": 1,
+        "unit": "g"
+      },
+      {
+        "name": "onion",
+        "quantity": 2,
+        "unit": "tsp"
+      }
+    ],
+    "difficulty": "hard",
+    "title": "Synthetic Recipe 5"
+  },
+  {
+    "created_at": "2025-11-20T06:17:40.346914Z",
+    "steps": [
+      "Step 1 of recipe 6",
+      "Step 2 of recipe 6",
+      "Step 3 of recipe 6"
+    ],
+    "description": "Auto-generated test recipe",
+    "id": "recipe_6",
+    "prep_time_min": 9,
+    "tags": [
+      "quick",
+      "non-veg"
+    ],
+    "cook_time_min": 9,
+    "servings": 4,
+    "total_time_min": 18,
+    "ingredients": [
+      {
+        "name": "salt",
+        "quantity": 2,
+        "unit": "pcs"
+      },
+      {
+        "name": "onion",
+        "quantity": 4,
+        "unit": "tsp"
+      },
+      {
+        "name": "oil",
+        "quantity": 2,
+        "unit": "tsp"
+      },
+      {
+        "name": "rice",
+        "quantity": 2,
+        "unit": "g"
+      },
+      {
+        "name": "garlic",
+        "quantity": 1,
+        "unit": "g"
+      },
+      {
+        "name": "oil",
+        "quantity": 3,
+        "unit": "g"
+      }
+    ],
+    "difficulty": "hard",
+    "title": "Synthetic Recipe 6"
+  },
+  {
+    "created_at": "2025-11-20T06:17:40.671648Z",
+    "steps": [
+      "Step 1 of recipe 7",
+      "Step 2 of recipe 7",
+      "Step 3 of recipe 7",
+      "Step 4 of recipe 7"
+    ],
+    "description": "Auto-generated test recipe",
+    "id": "recipe_7",
+    "prep_time_min": 15,
+    "tags": [
+      "veg",
+      "home-style"
+    ],
+    "cook_time_min": 11,
+    "servings": 3,
+    "total_time_min": 26,
+    "ingredients": [
+      {
+        "name": "carrot",
+        "quantity": 2,
+        "unit": "pcs"
+      },
+      {
+        "name": "garlic",
+        "quantity": 1,
+        "unit": "pcs"
+      },
+      {
+        "name": "oil",
+        "quantity": 2,
+        "unit": "pcs"
+      },
+      {
+        "name": "onion",
+        "quantity": 2,
+        "unit": "pcs"
+      },
+      {
+        "name": "garlic",
+        "quantity": 4,
+        "unit": "g"
+      }
+    ],
+    "difficulty": "easy",
+    "title": "Synthetic Recipe 7"
+  },
+  {
+    "created_at": "2025-11-20T06:17:41.066797Z",
+    "steps": [
+      "Step 1 of recipe 8",
+      "Step 2 of recipe 8",
+      "Step 3 of recipe 8",
+      "Step 4 of recipe 8"
+    ],
+    "description": "Auto-generated test recipe",
+    "id": "recipe_8",
+    "prep_time_min": 12,
+    "tags": [
+      "veg",
+      "quick"
+    ],
+    "cook_time_min": 12,
+    "servings": 1,
+    "total_time_min": 24,
+    "ingredients": [
+      {
+        "name": "potato",
+        "quantity": 1,
+        "unit": "g"
+      },
+      {
+        "name": "potato",
+        "quantity": 1,
+        "unit": "g"
+      },
+      {
+        "name": "garlic",
+        "quantity": 4,
+        "unit": "g"
+      }
+    ],
+    "difficulty": "hard",
+    "title": "Synthetic Recipe 8"
+  },
+  {
+    "created_at": "2025-11-20T06:17:41.183590Z",
+    "steps": [
+      "Step 1 of recipe 9",
+      "Step 2 of recipe 9"
+    ],
+    "description": "Auto-generated test recipe",
+    "id": "recipe_9",
+    "prep_time_min": 5,
+    "tags": [
+      "quick",
+      "non-veg"
+    ],
+    "cook_time_min": 11,
+    "servings": 3,
+    "total_time_min": 16,
+    "ingredients": [
+      {
+        "name": "carrot",
+        "quantity": 2,
+        "unit": "pcs"
+      },
+      {
+        "name": "salt",
+        "quantity": 1,
+        "unit": "tsp"
+      },
+      {
+        "name": "salt",
+        "quantity": 1,
+        "unit": "tsp"
+      }
+    ],
+    "difficulty": "medium",
+    "title": "Synthetic Recipe 9"
+  },
+  {
+    "created_at": "2025-11-20T06:17:37.130675Z",
+    "steps": [
+      "Chop onion, tomato and green chili.",
+      "Heat oil in a pan and add mustard seeds. Let them splutter.",
+      "Add curry leaves and chopped onions. Saut\u00e9 until translucent.",
+      "Add ginger garlic paste and saut\u00e9 for 30 seconds.",
+      "Add tomato, green chili, turmeric, red chili, coriander powder, pepper powder (optional) and cook until soft.",
+      "Beat eggs with salt and pour into the pan. Scramble until cooked.",
+      "Garnish with coriander. Serve with rotis, lemon, and sliced onions."
+    ],
+    "description": "Spicy scrambled eggs served with soft rotis \u2014 South Indian home style, no sauces.",
+    "id": "recipe_egg_burji_roti",
+    "prep_time_min": 12,
+    "tags": [
+      "south-indian",
+      "breakfast",
+      "eggs"
+    ],
+    "cook_time_min": 10,
+    "servings": 2,
+    "total_time_min": 22,
+    "ingredients": [
+      {
+        "name": "eggs",
+        "quantity": 4,
+        "unit": "pcs"
+      },
+      {
+        "name": "onion",
+        "quantity": 1,
+        "unit": "medium"
+      },
+      {
+        "name": "tomato",
+        "quantity": 1,
+        "unit": "medium"
+      },
+      {
+        "name": "green chili",
+        "quantity": 1,
+        "unit": "pcs"
+      },
+      {
+        "name": "curry leaves",
+        "quantity": 6,
+        "unit": "leaves"
+      },
+      {
+        "name": "ginger garlic paste",
+        "quantity": 1,
+        "unit": "tsp"
+      },
+      {
+        "name": "mustard seeds",
+        "quantity": 0.25,
+        "unit": "tsp"
+      },
+      {
+        "name": "turmeric powder",
+        "quantity": 0.25,
+        "unit": "tsp"
+      },
+      {
+        "name": "red chili powder",
+        "quantity": 0.5,
+        "unit": "tsp"
+      },
+      {
+        "name": "coriander powder",
+        "quantity": 0.5,
+        "unit": "tsp"
+      },
+      {
+        "name": "pepper powder (optional)",
+        "quantity": 0.25,
+        "unit": "tsp"
+      },
+      {
+        "name": "salt",
+        "quantity": 0.5,
+        "unit": "tsp"
+      },
+      {
+        "name": "oil",
+        "quantity": 1,
+        "unit": "tbsp"
+      },
+      {
+        "name": "lemon (optional)",
+        "quantity": 0.25,
+        "unit": "pcs"
+      },
+      {
+        "name": "onion (for serving, optional)",
+        "quantity": 0.25,
+        "unit": "medium"
+      },
+      {
+        "name": "coriander (optional garnish)",
+        "quantity": 2,
+        "unit": "tbsp"
+      },
+      {
+        "name": "roti/chapati",
+        "quantity": 4,
+        "unit": "pcs"
+      }
+    ],
+    "difficulty": "easy",
+    "title": "Egg Burji + Roti (South Indian style) for 2"
+  }
+]

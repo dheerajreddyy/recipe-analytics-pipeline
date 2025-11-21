@@ -1,0 +1,86 @@
+recipe_id,ingredient_id,name,quantity,unit
+recipe_1,recipe_1_ing_1,carrot,3,g
+recipe_1,recipe_1_ing_2,potato,3,tsp
+recipe_1,recipe_1_ing_3,potato,3,tbsp
+recipe_1,recipe_1_ing_4,garlic,1,pcs
+recipe_10,recipe_10_ing_1,onion,4,g
+recipe_10,recipe_10_ing_2,oil,4,tsp
+recipe_10,recipe_10_ing_3,garlic,2,tsp
+recipe_10,recipe_10_ing_4,onion,4,pcs
+recipe_10,recipe_10_ing_5,salt,1,tbsp
+recipe_11,recipe_11_ing_1,salt,2,tsp
+recipe_11,recipe_11_ing_2,rice,1,tsp
+recipe_11,recipe_11_ing_3,tomato,3,tsp
+recipe_11,recipe_11_ing_4,rice,1,tbsp
+recipe_11,recipe_11_ing_5,carrot,1,pcs
+recipe_11,recipe_11_ing_6,oil,1,g
+recipe_12,recipe_12_ing_1,potato,4,tbsp
+recipe_12,recipe_12_ing_2,onion,1,g
+recipe_12,recipe_12_ing_3,rice,4,tbsp
+recipe_13,recipe_13_ing_1,potato,1,g
+recipe_13,recipe_13_ing_2,tomato,4,tbsp
+recipe_13,recipe_13_ing_3,salt,2,tbsp
+recipe_13,recipe_13_ing_4,tomato,2,tbsp
+recipe_14,recipe_14_ing_1,garlic,1,tbsp
+recipe_14,recipe_14_ing_2,carrot,2,tbsp
+recipe_14,recipe_14_ing_3,oil,2,g
+recipe_15,recipe_15_ing_1,oil,3,tsp
+recipe_15,recipe_15_ing_2,rice,2,g
+recipe_15,recipe_15_ing_3,tomato,1,tbsp
+recipe_15,recipe_15_ing_4,tomato,4,pcs
+recipe_15,recipe_15_ing_5,carrot,2,g
+recipe_2,recipe_2_ing_1,oil,1,tbsp
+recipe_2,recipe_2_ing_2,garlic,2,pcs
+recipe_2,recipe_2_ing_3,potato,2,tsp
+recipe_2,recipe_2_ing_4,oil,1,tbsp
+recipe_2,recipe_2_ing_5,rice,3,g
+recipe_2,recipe_2_ing_6,salt,2,pcs
+recipe_3,recipe_3_ing_1,oil,1,tsp
+recipe_3,recipe_3_ing_2,potato,1,pcs
+recipe_3,recipe_3_ing_3,salt,1,tsp
+recipe_3,recipe_3_ing_4,salt,2,tbsp
+recipe_3,recipe_3_ing_5,rice,4,g
+recipe_4,recipe_4_ing_1,onion,3,g
+recipe_4,recipe_4_ing_2,oil,1,tsp
+recipe_4,recipe_4_ing_3,garlic,2,g
+recipe_4,recipe_4_ing_4,rice,4,g
+recipe_5,recipe_5_ing_1,tomato,2,tbsp
+recipe_5,recipe_5_ing_2,potato,4,tsp
+recipe_5,recipe_5_ing_3,rice,2,g
+recipe_5,recipe_5_ing_4,potato,2,g
+recipe_5,recipe_5_ing_5,oil,1,g
+recipe_5,recipe_5_ing_6,onion,2,tsp
+recipe_6,recipe_6_ing_1,salt,2,pcs
+recipe_6,recipe_6_ing_2,onion,4,tsp
+recipe_6,recipe_6_ing_3,oil,2,tsp
+recipe_6,recipe_6_ing_4,rice,2,g
+recipe_6,recipe_6_ing_5,garlic,1,g
+recipe_6,recipe_6_ing_6,oil,3,g
+recipe_7,recipe_7_ing_1,carrot,2,pcs
+recipe_7,recipe_7_ing_2,garlic,1,pcs
+recipe_7,recipe_7_ing_3,oil,2,pcs
+recipe_7,recipe_7_ing_4,onion,2,pcs
+recipe_7,recipe_7_ing_5,garlic,4,g
+recipe_8,recipe_8_ing_1,potato,1,g
+recipe_8,recipe_8_ing_2,potato,1,g
+recipe_8,recipe_8_ing_3,garlic,4,g
+recipe_9,recipe_9_ing_1,carrot,2,pcs
+recipe_9,recipe_9_ing_2,salt,1,tsp
+recipe_9,recipe_9_ing_3,salt,1,tsp
+recipe_egg_burji_roti,recipe_egg_burji_roti_ing_1,eggs,4,pcs
+recipe_egg_burji_roti,recipe_egg_burji_roti_ing_2,onion,1,medium
+recipe_egg_burji_roti,recipe_egg_burji_roti_ing_3,tomato,1,medium
+recipe_egg_burji_roti,recipe_egg_burji_roti_ing_4,green chili,1,pcs
+recipe_egg_burji_roti,recipe_egg_burji_roti_ing_5,curry leaves,6,leaves
+recipe_egg_burji_roti,recipe_egg_burji_roti_ing_6,ginger garlic paste,1,tsp
+recipe_egg_burji_roti,recipe_egg_burji_roti_ing_7,mustard seeds,0.25,tsp
+recipe_egg_burji_roti,recipe_egg_burji_roti_ing_8,turmeric powder,0.25,tsp
+recipe_egg_burji_roti,recipe_egg_burji_roti_ing_9,red chili powder,0.5,tsp
+recipe_egg_burji_roti,recipe_egg_burji_roti_ing_10,coriander powder,0.5,tsp
+recipe_egg_burji_roti,recipe_egg_burji_roti_ing_11,pepper powder (optional),0.25,tsp
+recipe_egg_burji_roti,recipe_egg_burji_roti_ing_12,salt,0.5,tsp
+recipe_egg_burji_roti,recipe_egg_burji_roti_ing_13,oil,1,tbsp
+recipe_egg_burji_roti,recipe_egg_burji_roti_ing_14,lemon (optional),0.25,pcs
+recipe_egg_burji_roti,recipe_egg_burji_roti_ing_15,"onion (for serving, optional)",0.25,medium
+recipe_egg_burji_roti,recipe_egg_burji_roti_ing_16,coriander (optional garnish),2,tbsp
+recipe_egg_burji_roti,recipe_egg_burji_roti_ing_17,roti/chapati,4,pcs

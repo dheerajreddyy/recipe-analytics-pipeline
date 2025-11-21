@@ -1,0 +1,17 @@
+id,title,description,servings,prep_time_min,cook_time_min,total_time_min,difficulty,created_at
+recipe_1,Synthetic Recipe 1,Auto-generated test recipe,1,5,15,20,hard,2025-11-20T06:17:39.103263Z
+recipe_10,Synthetic Recipe 10,Auto-generated test recipe,1,11,11,22,medium,2025-11-20T06:17:41.526819Z
+recipe_11,Synthetic Recipe 11,Auto-generated test recipe,3,11,25,36,medium,2025-11-20T06:17:41.866571Z
+recipe_12,Synthetic Recipe 12,Auto-generated test recipe,4,15,5,20,hard,2025-11-20T06:17:42.238678Z
+recipe_13,Synthetic Recipe 13,Auto-generated test recipe,3,10,20,30,medium,2025-11-20T06:17:42.597798Z
+recipe_14,Synthetic Recipe 14,Auto-generated test recipe,2,9,15,24,easy,2025-11-20T06:17:42.805473Z
+recipe_15,Synthetic Recipe 15,Auto-generated test recipe,4,15,5,20,easy,2025-11-20T06:17:42.923293Z
+recipe_2,Synthetic Recipe 2,Auto-generated test recipe,3,15,14,29,easy,2025-11-20T06:17:39.216849Z
+recipe_3,Synthetic Recipe 3,Auto-generated test recipe,3,14,16,30,medium,2025-11-20T06:17:39.376450Z
+recipe_4,Synthetic Recipe 4,Auto-generated test recipe,2,9,11,20,medium,2025-11-20T06:17:39.523590Z
+recipe_5,Synthetic Recipe 5,Auto-generated test recipe,1,13,14,27,hard,2025-11-20T06:17:39.982565Z
+recipe_6,Synthetic Recipe 6,Auto-generated test recipe,4,9,9,18,hard,2025-11-20T06:17:40.346914Z
+recipe_7,Synthetic Recipe 7,Auto-generated test recipe,3,15,11,26,easy,2025-11-20T06:17:40.671648Z
+recipe_8,Synthetic Recipe 8,Auto-generated test recipe,1,12,12,24,hard,2025-11-20T06:17:41.066797Z
+recipe_9,Synthetic Recipe 9,Auto-generated test recipe,3,5,11,16,medium,2025-11-20T06:17:41.183590Z
+recipe_egg_burji_roti,Egg Burji + Roti (South Indian style) for 2,"Spicy scrambled eggs served with soft rotis — South Indian home style, no sauces.",2,12,10,22,easy,2025-11-20T06:17:37.130675Z

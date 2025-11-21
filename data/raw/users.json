@@ -1,0 +1,62 @@
+[
+  {
+    "id": "user_1",
+    "signup_date": "2025-11-20T06:17:43.280979Z",
+    "email": "user1@example.com",
+    "name": "User 1"
+  },
+  {
+    "id": "user_10",
+    "signup_date": "2025-11-20T06:17:46.998315Z",
+    "email": "user10@example.com",
+    "name": "User 10"
+  },
+  {
+    "id": "user_2",
+    "signup_date": "2025-11-20T06:17:43.656436Z",
+    "email": "user2@example.com",
+    "name": "User 2"
+  },
+  {
+    "id": "user_3",
+    "signup_date": "2025-11-20T06:17:44.363395Z",
+    "email": "user3@example.com",
+    "name": "User 3"
+  },
+  {
+    "id": "user_4",
+    "signup_date": "2025-11-20T06:17:44.748783Z",
+    "email": "user4@example.com",
+    "name": "User 4"
+  },
+  {
+    "id": "user_5",
+    "signup_date": "2025-11-20T06:17:45.067847Z",
+    "email": "user5@example.com",
+    "name": "User 5"
+  },
+  {
+    "id": "user_6",
+    "signup_date": "2025-11-20T06:17:45.687969Z",
+    "email": "user6@example.com",
+    "name": "User 6"
+  },
+  {
+    "id": "user_7",
+    "signup_date": "2025-11-20T06:17:45.940189Z",
+    "email": "user7@example.com",
+    "name": "User 7"
+  },
+  {
+    "id": "user_8",
+    "signup_date": "2025-11-20T06:17:46.122376Z",
+    "email": "user8@example.com",
+    "name": "User 8"
+  },
+  {
+    "id": "user_9",
+    "signup_date": "2025-11-20T06:17:46.725228Z",
+    "email": "user9@example.com",
+    "name": "User 9"
+  }
+]
