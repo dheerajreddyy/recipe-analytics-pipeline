@@ -8,28 +8,28 @@ The dataset includes the candidate’s own recipe (Anda(Egg) Burji + Roti) and s
 ## 1. Data Model Overview
 
 The system contains five logical entities:
-    Recipes
-    Ingredients
-    Steps
-    Users
-    User Interactions (views, likes, cook attempts)
+-    Recipes
+-    Ingredients
+-   Steps
+-    Users
+-    User Interactions (views, likes, cook attempts)
 
 Entity Relationships
-    A recipe has many ingredients
-    A recipe has many steps
-    A user generates many interactions
-    An interaction belongs to one user and one recipe
+-    A recipe has many ingredients
+-    A recipe has many steps
+-    A user generates many interactions
+-    An interaction belongs to one user and one recipe
 
 Key Fields
 
 Recipe:
-    id, title, description
-    prep_time, cook_time, total_time
-    difficulty (easy, medium, hard)
-    tags
-    ingredients[]
-    steps[]
-    created_at
+-    id, title, description
+-    prep_time, cook_time, total_time
+-    difficulty (easy, medium, hard)
+-    tags
+-    ingredients[]
+-    steps[]
+-    created_at
 
 User:
     id, name, email, signup_date
@@ -54,7 +54,7 @@ A full schema and ERD-style diagram is included in:
 The project uses a simple directory layout:
 
 de_recipe_pipeline/
-  codes/
+  scripts/
   data/raw/
   data/processed/
   outputs/
@@ -70,7 +70,7 @@ Install dependencies:
     pip install firebase-admin
 
 Run the ingestion script:
-    python codes/upload_to_firestore.py
+    python scripts/upload_to_firestore.py
 
 This creates:
     Primary recipe
@@ -86,7 +86,7 @@ interactions/
 ## Step 3 — Export Firestore and Run ETL
 
 Export Firestore → JSON:
-    python codes/export_from_firestore.py
+    python scripts/export_from_firestore.py
 
 Produces:
     data/raw/recipes.json
@@ -94,7 +94,7 @@ Produces:
     data/raw/interactions.json
 
 Transform JSON → Normalized CSV:
-    python codes/transform_to_csv.py
+    python scripts/transform_to_csv.py
 
 
 Outputs:
@@ -107,7 +107,7 @@ Outputs:
 ## Step 4 — Data Quality Validation
 
 Run the validator:
-    python codes/validate_data.py
+    python scripts/validate_data.py
 
 Produces:
     outputs/validation_report.json
