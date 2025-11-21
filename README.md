@@ -1,44 +1,43 @@
-## Recipe Analytics Pipeline (Firebase + Python ETL)
+# RECIPE ANALYTICS PIPELINE (Firebase + Python ETL)
 
-- **Name:** R Dheeraj Reddy  
-- **Batch:** Data Engineer  
-- **Email:** dheerajr.ramireddy@gmail.com  
+**Name:** R Dheeraj Reddy  
+**Batch:** Data Engineer  
+**Email:** dheerajr.ramireddy@gmail.com 
 
 
+## Table Of Contents:
+[1. Data Model Overview](#1-data-model-overview)
 
-Table of Contents
+- [Entity Relationship Diagram (ERD)](#entity-relationship-diagram-erd)
 
-1. Data Model Overview
+[2. Running the End-to-End Pipeline](#2-running-the-end-to-end-pipeline)
 
-Entity Relationship Diagram (ERD)
+- [Step 2 — Populate Firestore](#step-2--populate-firestore)
 
-2. Running the End-to-End Pipeline
+- [Step 3 — Export Firestore and Run ETL](#step-3--export-firestore-and-run-etl)
 
-Step 2 — Populate Firestore
+- [Step 4 — Data Quality Validation](#step-4--data-quality-validation)
 
-Step 3 — Export Firestore and Run ETL
+[3. ETL Process Summary](#3-etl-process-summary)
 
-Step 4 — Data Quality Validation
+[4. Analytics Summary (10+ Insights)](#4-analytics-summary-10-insights)
 
-3. ETL Process Summary
+- [Analytics Visualizations](#analytics-visualizations)
 
-4. Analytics Summary (10+ Insights)
+[5. Known Constraints / Limitations](#5-known-constraints--limitations)
 
-Analytics Visualizations
+[6. Technologies Used](#6-technologies-used)
 
-5. Known Constraints / Limitations
+[7. How to Extend](#7-how-to-extend)
 
-6. Technologies Used
-
-7. How to Extend
 
 
 This project implements a complete data engineering pipeline using Firebase Firestore as the source system.
 It demonstrates data modeling, data ingestion, ETL/ELT processing, data validation, analytics, and reporting.
 
-The dataset includes the candidate’s own recipe (Anda(Egg) Burji + Roti) and synthetic supporting data.
+The dataset includes the candidate’s own recipe (Egg Burji + Roti) and synthetic supporting data.
 
-## 1. Data Model Overview
+## 1. DATA MODEL OVERVIEW
 
 The system contains five logical entities:
 -    Recipes
@@ -82,7 +81,7 @@ A full schema and ERD-style diagram is included in:
 ![ER Diagram](./outputs/png/erd_recipe.png)
 
 
-## 2. Running the End-to-End Pipeline
+## 2. RUNNING THE END-TO-END PIPELINE
 
 The project uses a simple directory layout:
 
@@ -153,7 +152,7 @@ Contains:
 Validation rules are documented in:
 -    docs/Step4_Data_Quality_Validation.md
 
-## 3. ETL Process Summary
+## 3. ETL PROCESS SUMMARY
 
 Extract:
 -    Read Firestore collections using Firebase Admin SDK
@@ -171,7 +170,7 @@ Load:
 
 This pipeline ensures the data is clean, well-structured, and analytics-ready.
 
-## 4. Analytics Summary (10+ Insights)
+## 4. ANALYTICS SUMMARY (10+ INSIGHTS)
 
 Using the normalized tables, the following insights were generated:
 -    Most common ingredients: onion, salt, tomato, oil
@@ -212,26 +211,26 @@ Below are optional charts illustrating insights generated from the dataset:
 - **Prep time vs likes**  
   ![](./outputs/charts/prep_vs_likes.png)
 
-## 5. Known Constraints / Limitations
+## 5. KNOWN CONSTRAINTS/ LIMITATIONS
 
 The constraints/limitations are:
--    Synthetic recipes are randomly generated and not real dishes
--    Interaction data is synthetic and probabilistic
--    Analytics are based on small sample sizes
--    Firestore export is not the full Google Cloud “export/import” format
--    Synthetic randomness may result in some recipes dominating interactions
--    These limitations are expected and acceptable given the project scope.
+-Synthetic recipes are randomly generated and not real dishes
+-Interaction data is synthetic and probabilistic
+-Analytics are based on small sample sizes
+-Firestore export is not the full Google Cloud “export/import” format
+-Synthetic randomness may result in some recipes dominating interactions
+-These limitations are expected and acceptable given the project scope.
 
-## 6. Technologies Used
+## 6. TECHNOLOGIES USED
 The technologies used in the project are:
--    Firebase Firestore (source system)
--    Python 3
--    Firebase Admin SDK
--    CSV-based normalized tables
--    Pandas
--    Matplotlib
+-Firebase Firestore (source system)
+-Python 3
+-Firebase Admin SDK
+-CSV-based normalized tables
+-Pandas
+-Matplotlib
 
-## 7. How to Extend
+## 7. HOW TO EXTEND
 
 Optional future enhancements:
 -    Add a dashboard (PowerBI)
