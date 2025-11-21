@@ -12,7 +12,7 @@ The ETL process consists of:
 ## 3.1 Extract — Export Firestore Collections
 
 Firestore source data is exported using:
-    scripts/export_from_firestore.py
+    codes/export_from_firestore.py
 
 
 This script connects to Firestore through the Firebase Admin SDK and exports:
@@ -28,7 +28,7 @@ The exported files are stored in:
 ## 3.2 Transform — JSON to Normalized Tables
 
 Transformation is implemented in Python using the script:
-    scripts/transform_to_csv.py
+    codes/transform_to_csv.py
 
 The script performs the following actions:
     Recipes:
