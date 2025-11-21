@@ -164,17 +164,20 @@ Charts (optional) will be placed in:
 ## Analytics Visualizations
 
 Below are optional charts illustrating insights generated from the dataset:
-Difficulty distribution 
-- ![Difficulty](./outputs/charts/difficulty_distribution.png)
-Most common ingredients 
-- ![Ingredients](./outputs/charts/top_ingredients.png)
-Top viewed recipes    
-- ![Views](./outputs/charts/top_views.png)
-Top liked recipes     
-- ![Likes](./outputs/charts/top_likes.png)
-Prep time vs likes   
-- ![Prep vs Likes](./outputs/charts/prep_vs_likes.png)
+- **Difficulty distribution**  
+  ![](./outputs/charts/difficulty_distribution.png)
 
+- **Most common ingredients**  
+  ![](./outputs/charts/top_ingredients.png)
+
+- **Top viewed recipes**  
+  ![](./outputs/charts/top_views.png)
+
+- **Top liked recipes**  
+  ![](./outputs/charts/top_likes.png)
+
+- **Prep time vs likes**  
+  ![](./outputs/charts/prep_vs_likes.png)
 
 ## 5. Known Constraints / Limitations
 
