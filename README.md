@@ -54,7 +54,7 @@ A full schema and ERD-style diagram is included in:
 The project uses a simple directory layout:
 
 de_recipe_pipeline/
-  scripts/
+  codes/
   data/raw/
   data/processed/
   outputs/
@@ -70,7 +70,7 @@ Install dependencies:
     pip install firebase-admin
 
 Run the ingestion script:
-    python scripts/upload_to_firestore.py
+    python codes/upload_to_firestore.py
 
 This creates:
     Primary recipe
@@ -86,7 +86,7 @@ interactions/
 ## Step 3 — Export Firestore and Run ETL
 
 Export Firestore → JSON:
-    python scripts/export_from_firestore.py
+    python codes/export_from_firestore.py
 
 Produces:
     data/raw/recipes.json
@@ -94,7 +94,7 @@ Produces:
     data/raw/interactions.json
 
 Transform JSON → Normalized CSV:
-    python scripts/transform_to_csv.py
+    python codes/transform_to_csv.py
 
 
 Outputs:
@@ -107,7 +107,7 @@ Outputs:
 ## Step 4 — Data Quality Validation
 
 Run the validator:
-    python scripts/validate_data.py
+    python codes/validate_data.py
 
 Produces:
     outputs/validation_report.json
